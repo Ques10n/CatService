@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73ccf63d-d08c-480b-8631-2a284f445a63" name="Changes" comment="app final">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cat_service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cat_service/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cat_service/routing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cat_service/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cat_service/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cat_service/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/consumers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/routing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/cats/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cat_service/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nQPiISIfI70AOKRSyVLmG3ls4U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;newmaster&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rasim/PycharmProjects/Cats&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rasim\PycharmProjects\Cats" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ccf63d-d08c-480b-8631-2a284f445a63" name="Changes" comment="" />
+      <created>1728902451517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728902451517</updated>
+    </task>
+    <task id="LOCAL-00001" summary="app">
+      <option name="closed" value="true" />
+      <created>1729070902664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729070902664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="app to">
+      <option name="closed" value="true" />
+      <created>1729071760084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729071760084</updated>
+    </task>
+    <task id="LOCAL-00003" summary="app to">
+      <option name="closed" value="true" />
+      <created>1729072495580</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729072495580</updated>
+    </task>
+    <task id="LOCAL-00004" summary="app to">
+      <option name="closed" value="true" />
+      <created>1729072611923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729072611923</updated>
+    </task>
+    <task id="LOCAL-00005" summary="app to final">
+      <option name="closed" value="true" />
+      <created>1729074112156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729074112156</updated>
+    </task>
+    <task id="LOCAL-00006" summary="app to final">
+      <option name="closed" value="true" />
+      <created>1729077437830</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729077437830</updated>
+    </task>
+    <task id="LOCAL-00007" summary="app final">
+      <option name="closed" value="true" />
+      <created>1729079180202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729079180202</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="newmaster" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="app" />
+    <MESSAGE value="app a" />
+    <MESSAGE value="app to" />
+    <MESSAGE value="app to final" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master' into newmaster" />
+    <MESSAGE value="app final" />
+    <option name="LAST_COMMIT_MESSAGE" value="app final" />
+  </component>
+</project>
